@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namthanh2607/leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/namthanh2607/leetcode-python/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/namthanh2607/leetcode-python/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/namthanh2607/leetcode-python/tree/master/0035-search-insert-position) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/namthanh2607/leetcode-python/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/namthanh2607/leetcode-python/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/namthanh2607/leetcode-python/tree/master/3731-find-missing-elements) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/namthanh2607/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/namthanh2607/leetcode-python/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
