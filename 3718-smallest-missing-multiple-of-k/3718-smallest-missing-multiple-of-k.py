@@ -1,16 +1,15 @@
 class Solution:
     def missingMultiple(self, nums: List[int], k: int) -> int:
         nums.sort()
-        n = len(nums)
-        ans = []
-        for i in range(n):
-            if nums[i] % k == 0 and nums[i] not in ans:
-                ans.append(nums[i])
-        if not ans or ans[0] != k:
-            return k
-        for i in range(len(ans)):
-            if ans[i] != (i + 1) * k:
-                return (i + 1) * k
-        return (len(ans) + 1) * k
+        Try = 1
+        start = 0
+        while start < len(nums):
+            if nums[start] < Try * k:
+                start += 1
+            elif nums[start] == Try * k:
+                Try += 1
+            elif nums[start] > Try * k:
+                return Try * k 
+        return Try * k
             
                 
