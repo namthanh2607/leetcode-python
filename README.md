@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/namthanh2607/leetcode-python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/namthanh2607/leetcode-python/tree/master/0013-roman-to-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/namthanh2607/leetcode-python/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/namthanh2607/leetcode-python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
