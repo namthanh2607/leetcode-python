@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/namthanh2607/leetcode-python/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/namthanh2607/leetcode-python/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/namthanh2607/leetcode-python/tree/master/0035-search-insert-position) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/namthanh2607/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/namthanh2607/leetcode-python/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/namthanh2607/leetcode-python/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/namthanh2607/leetcode-python/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/namthanh2607/leetcode-python/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/namthanh2607/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Trie
 |  |
 | ------- |
