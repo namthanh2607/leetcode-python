@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/namthanh2607/leetcode-python/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/namthanh2607/leetcode-python/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namthanh2607/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/namthanh2607/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/namthanh2607/leetcode-python/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/namthanh2607/leetcode-python/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/namthanh2607/leetcode-python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/namthanh2607/leetcode-python/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namthanh2607/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/namthanh2607/leetcode-python/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/namthanh2607/leetcode-python/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/namthanh2607/leetcode-python/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/namthanh2607/leetcode-python/tree/master/3904-smallest-stable-index-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namthanh2607/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
