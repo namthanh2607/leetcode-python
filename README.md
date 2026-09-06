@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/namthanh2607/leetcode-python/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namthanh2607/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/namthanh2607/leetcode-python/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/namthanh2607/leetcode-python/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/namthanh2607/leetcode-python/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/namthanh2607/leetcode-python/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/namthanh2607/leetcode-python/tree/master/0657-robot-return-to-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/namthanh2607/leetcode-python/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/namthanh2607/leetcode-python/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namthanh2607/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/namthanh2607/leetcode-python/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
