@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/namthanh2607/leetcode-python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/namthanh2607/leetcode-python/tree/master/0053-maximum-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namthanh2607/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/namthanh2607/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/namthanh2607/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/namthanh2607/leetcode-python/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/namthanh2607/leetcode-python/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/namthanh2607/leetcode-python/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/namthanh2607/leetcode-python/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
