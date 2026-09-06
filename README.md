@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/namthanh2607/leetcode-python/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/namthanh2607/leetcode-python/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/namthanh2607/leetcode-python/tree/master/0046-permutations) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namthanh2607/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/namthanh2607/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/namthanh2607/leetcode-python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/namthanh2607/leetcode-python/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/namthanh2607/leetcode-python/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/namthanh2607/leetcode-python/tree/master/0046-permutations) |
 ## String Matching
 |  |
 | ------- |
