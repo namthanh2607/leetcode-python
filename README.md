@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/namthanh2607/leetcode-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/namthanh2607/leetcode-python/tree/master/0055-jump-game) |
+| [0217-contains-duplicate](https://github.com/namthanh2607/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namthanh2607/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/namthanh2607/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/namthanh2607/leetcode-python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/namthanh2607/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/namthanh2607/leetcode-python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/namthanh2607/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/namthanh2607/leetcode-python/tree/master/0409-longest-palindrome) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/namthanh2607/leetcode-python/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/namthanh2607/leetcode-python/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/namthanh2607/leetcode-python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/namthanh2607/leetcode-python/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0047-permutations-ii) |
+| [0217-contains-duplicate](https://github.com/namthanh2607/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namthanh2607/leetcode-python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/namthanh2607/leetcode-python/tree/master/3517-smallest-palindromic-rearrangement-i) |
