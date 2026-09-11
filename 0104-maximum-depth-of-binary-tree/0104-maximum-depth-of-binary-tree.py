@@ -11,14 +11,8 @@ class Solution:
     def help(self,u):
         if not u:
             return 0
-        if not u.left and not u.right:
-            return 1
-        elif u.left and u.right:
-            return max(self.help(u.left), self.help(u.right)) + 1
-        elif u.left:
-            return self.help(u.left) + 1
-        elif u.right:
-            return self.help(u.right) + 1
+        return max(self.help(u.left), self.help(u.right)) + 1
+        
 
         
         
