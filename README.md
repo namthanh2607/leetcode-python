@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/namthanh2607/leetcode-python/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namthanh2607/leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/namthanh2607/leetcode-python/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/namthanh2607/leetcode-python/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/namthanh2607/leetcode-python/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/namthanh2607/leetcode-python/tree/master/0657-robot-return-to-origin) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/namthanh2607/leetcode-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/namthanh2607/leetcode-python/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/namthanh2607/leetcode-python/tree/master/0091-decode-ways) |
 ## Manacher
 |  |
 | ------- |
