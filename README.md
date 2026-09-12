@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/namthanh2607/leetcode-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/namthanh2607/leetcode-python/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/namthanh2607/leetcode-python/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/namthanh2607/leetcode-python/tree/master/0079-word-search) |
 | [0217-contains-duplicate](https://github.com/namthanh2607/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/namthanh2607/leetcode-python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/namthanh2607/leetcode-python/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/namthanh2607/leetcode-python/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/namthanh2607/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namthanh2607/leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/namthanh2607/leetcode-python/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
