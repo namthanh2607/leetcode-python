@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/namthanh2607/leetcode-python/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/namthanh2607/leetcode-python/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/namthanh2607/leetcode-python/tree/master/0079-word-search) |
+| [0169-majority-element](https://github.com/namthanh2607/leetcode-python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/namthanh2607/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/namthanh2607/leetcode-python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/namthanh2607/leetcode-python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/namthanh2607/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/namthanh2607/leetcode-python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/namthanh2607/leetcode-python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/namthanh2607/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/namthanh2607/leetcode-python/tree/master/0409-longest-palindrome) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/namthanh2607/leetcode-python/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/namthanh2607/leetcode-python/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/namthanh2607/leetcode-python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/namthanh2607/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/namthanh2607/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/namthanh2607/leetcode-python/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/namthanh2607/leetcode-python/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/namthanh2607/leetcode-python/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/namthanh2607/leetcode-python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/namthanh2607/leetcode-python/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bracket Sequences
@@ -287,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/namthanh2607/leetcode-python/tree/master/0056-merge-intervals) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/namthanh2607/leetcode-python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
