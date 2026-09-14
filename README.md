@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/namthanh2607/leetcode-python/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/namthanh2607/leetcode-python/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/namthanh2607/leetcode-python/tree/master/1266-minimum-time-visiting-all-points) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/namthanh2607/leetcode-python/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/namthanh2607/leetcode-python/tree/master/3536-maximum-product-of-two-digits) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/namthanh2607/leetcode-python/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/namthanh2607/leetcode-python/tree/master/1266-minimum-time-visiting-all-points) |
 ## Matrix
 |  |
