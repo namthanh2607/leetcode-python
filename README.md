@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/namthanh2607/leetcode-python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/namthanh2607/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/namthanh2607/leetcode-python/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/namthanh2607/leetcode-python/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/namthanh2607/leetcode-python/tree/master/0836-rectangle-overlap) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/namthanh2607/leetcode-python/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namthanh2607/leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/namthanh2607/leetcode-python/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/namthanh2607/leetcode-python/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/namthanh2607/leetcode-python/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/namthanh2607/leetcode-python/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0257-binary-tree-paths) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/namthanh2607/leetcode-python/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/namthanh2607/leetcode-python/tree/master/0657-robot-return-to-origin) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/namthanh2607/leetcode-python/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/namthanh2607/leetcode-python/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
 ## Geometry
 |  |
