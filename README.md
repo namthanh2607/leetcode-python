@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/namthanh2607/leetcode-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/namthanh2607/leetcode-python/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/namthanh2607/leetcode-python/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/namthanh2607/leetcode-python/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/namthanh2607/leetcode-python/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/namthanh2607/leetcode-python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/namthanh2607/leetcode-python/tree/master/0217-contains-duplicate) |
