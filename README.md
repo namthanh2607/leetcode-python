@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/namthanh2607/leetcode-python/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/namthanh2607/leetcode-python/tree/master/1266-minimum-time-visiting-all-points) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/namthanh2607/leetcode-python/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/namthanh2607/leetcode-python/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/namthanh2607/leetcode-python/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/namthanh2607/leetcode-python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/namthanh2607/leetcode-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/namthanh2607/leetcode-python/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/namthanh2607/leetcode-python/tree/master/0091-decode-ways) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/namthanh2607/leetcode-python/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Manacher
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/namthanh2607/leetcode-python/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/namthanh2607/leetcode-python/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/namthanh2607/leetcode-python/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/namthanh2607/leetcode-python/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/namthanh2607/leetcode-python/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
