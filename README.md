@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/namthanh2607/leetcode-python/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/namthanh2607/leetcode-python/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/namthanh2607/leetcode-python/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/namthanh2607/leetcode-python/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/namthanh2607/leetcode-python/tree/master/0169-majority-element) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/namthanh2607/leetcode-python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/namthanh2607/leetcode-python/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/namthanh2607/leetcode-python/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/namthanh2607/leetcode-python/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0257-binary-tree-paths) |
 ## String Matching
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/namthanh2607/leetcode-python/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/namthanh2607/leetcode-python/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
 ## Geometry
 |  |
