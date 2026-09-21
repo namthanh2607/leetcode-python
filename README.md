@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/namthanh2607/leetcode-python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/namthanh2607/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/namthanh2607/leetcode-python/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/namthanh2607/leetcode-python/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/namthanh2607/leetcode-python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/namthanh2607/leetcode-python/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/namthanh2607/leetcode-python/tree/master/0091-decode-ways) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/namthanh2607/leetcode-python/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Manacher
@@ -319,5 +321,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/namthanh2607/leetcode-python/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
