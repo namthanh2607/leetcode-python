@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/namthanh2607/leetcode-python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/namthanh2607/leetcode-python/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/namthanh2607/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/namthanh2607/leetcode-python/tree/master/0836-rectangle-overlap) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/namthanh2607/leetcode-python/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/namthanh2607/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/namthanh2607/leetcode-python/tree/master/0091-decode-ways) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/namthanh2607/leetcode-python/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Manacher
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/namthanh2607/leetcode-python/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/namthanh2607/leetcode-python/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
