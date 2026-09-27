@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/namthanh2607/leetcode-python/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/namthanh2607/leetcode-python/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/namthanh2607/leetcode-python/tree/master/0093-restore-ip-addresses) |
+| [0113-path-sum-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/namthanh2607/leetcode-python/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namthanh2607/leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/namthanh2607/leetcode-python/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/namthanh2607/leetcode-python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/namthanh2607/leetcode-python/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namthanh2607/leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/namthanh2607/leetcode-python/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/namthanh2607/leetcode-python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/namthanh2607/leetcode-python/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namthanh2607/leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/namthanh2607/leetcode-python/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/namthanh2607/leetcode-python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
