@@ -1,11 +1,15 @@
 class Solution:
-    def smallestIndex(self, nums: List[int]) -> int:
+    def smallestIndex(self, nums):
+
         for i in range(len(nums)):
-            check = 0
-            for j in str(nums[i]):
-                check += int(j)
-            if check == i:
+            x = nums[i]
+            total = 0
+
+            while x > 0:
+                total += x % 10
+                x //= 10
+
+            if total == i:
                 return i
-                
+
         return -1
-        
