@@ -3,16 +3,20 @@ class Solution:
         nums.sort()
         res = []
         def Try(t,cur):
-            if t == len(nums):
-                if cur not in res:
-                    res.append(cur[::])
+            if t >= len(nums):
+                res.append(cur[::])
                 return
             
-            Try(t + 1, cur)
-
             cur.append(nums[t])
             Try(t + 1, cur)
             cur.pop()
+
+            # ko chon 2 -> bo het con 2 dang sau 
+            while t < len(nums) - 1 and nums[t] == nums[t+1]:
+                t += 1
+
+            Try(t + 1, cur)
+            
 
         Try(0,[])
         return res
