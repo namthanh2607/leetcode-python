@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namthanh2607/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/namthanh2607/leetcode-python/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/namthanh2607/leetcode-python/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/namthanh2607/leetcode-python/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/namthanh2607/leetcode-python/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/namthanh2607/leetcode-python/tree/master/0216-combination-sum-iii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/namthanh2607/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/namthanh2607/leetcode-python/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/namthanh2607/leetcode-python/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
