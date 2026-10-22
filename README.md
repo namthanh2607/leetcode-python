@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/namthanh2607/leetcode-python/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/namthanh2607/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/namthanh2607/leetcode-python/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/namthanh2607/leetcode-python/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/namthanh2607/leetcode-python/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/0628-maximum-product-of-three-numbers) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/namthanh2607/leetcode-python/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/namthanh2607/leetcode-python/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/namthanh2607/leetcode-python/tree/master/0657-robot-return-to-origin) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/namthanh2607/leetcode-python/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/namthanh2607/leetcode-python/tree/master/3498-reverse-degree-of-a-string) |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/namthanh2607/leetcode-python/tree/master/0075-sort-colors) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/namthanh2607/leetcode-python/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
