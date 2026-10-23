@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/namthanh2607/leetcode-python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/namthanh2607/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/namthanh2607/leetcode-python/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/namthanh2607/leetcode-python/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/namthanh2607/leetcode-python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/namthanh2607/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0219-contains-duplicate-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/namthanh2607/leetcode-python/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/namthanh2607/leetcode-python/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/namthanh2607/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/namthanh2607/leetcode-python/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/namthanh2607/leetcode-python/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -475,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/namthanh2607/leetcode-python/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/namthanh2607/leetcode-python/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
