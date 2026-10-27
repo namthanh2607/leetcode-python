@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/namthanh2607/leetcode-python/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/namthanh2607/leetcode-python/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/namthanh2607/leetcode-python/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/namthanh2607/leetcode-python/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
 | ------- |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/namthanh2607/leetcode-python/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/namthanh2607/leetcode-python/tree/master/0401-binary-watch) |
 ## Geometry
 |  |
 | ------- |
