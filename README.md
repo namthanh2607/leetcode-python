@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/namthanh2607/leetcode-python/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/namthanh2607/leetcode-python/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/namthanh2607/leetcode-python/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/namthanh2607/leetcode-python/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/namthanh2607/leetcode-python/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/namthanh2607/leetcode-python/tree/master/3731-find-missing-elements) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0213-house-robber-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/namthanh2607/leetcode-python/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/namthanh2607/leetcode-python/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3693-climbing-stairs-ii](https://github.com/namthanh2607/leetcode-python/tree/master/3693-climbing-stairs-ii) |
 ## Manacher
 |  |
 | ------- |
