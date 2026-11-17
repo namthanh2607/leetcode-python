@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/namthanh2607/leetcode-python/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/namthanh2607/leetcode-python/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/namthanh2607/leetcode-python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/namthanh2607/leetcode-python/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/namthanh2607/leetcode-python/tree/master/2409-count-days-spent-together) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/namthanh2607/leetcode-python/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/namthanh2607/leetcode-python/tree/master/3498-reverse-degree-of-a-string) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/namthanh2607/leetcode-python/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/namthanh2607/leetcode-python/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/namthanh2607/leetcode-python/tree/master/0657-robot-return-to-origin) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/namthanh2607/leetcode-python/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/namthanh2607/leetcode-python/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/namthanh2607/leetcode-python/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
