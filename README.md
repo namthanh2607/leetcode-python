@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/namthanh2607/leetcode-python/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/namthanh2607/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/namthanh2607/leetcode-python/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/namthanh2607/leetcode-python/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/namthanh2607/leetcode-python/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/namthanh2607/leetcode-python/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/namthanh2607/leetcode-python/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/namthanh2607/leetcode-python/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/namthanh2607/leetcode-python/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/namthanh2607/leetcode-python/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/namthanh2607/leetcode-python/tree/master/3483-unique-3-digit-even-numbers) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/namthanh2607/leetcode-python/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/namthanh2607/leetcode-python/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/namthanh2607/leetcode-python/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/namthanh2607/leetcode-python/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/namthanh2607/leetcode-python/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/namthanh2607/leetcode-python/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/namthanh2607/leetcode-python/tree/master/0217-contains-duplicate) |
@@ -500,9 +503,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/namthanh2607/leetcode-python/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/namthanh2607/leetcode-python/tree/master/0258-add-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/namthanh2607/leetcode-python/tree/master/0141-linked-list-cycle) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/namthanh2607/leetcode-python/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/namthanh2607/leetcode-python/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/namthanh2607/leetcode-python/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
